@@ -1,4 +1,4 @@
-name: Deployment
+name: Sec-06 Secrets And Environment Variables
 on:
   push:
     branches:
