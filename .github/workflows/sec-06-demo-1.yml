@@ -11,7 +11,7 @@ env:
 
 jobs:
   test:
-    environment: testing
+    environment: sec-05-environment
     runs-on: ubuntu-latest
     env:
       MONGODB_CLUSTER_ADDRESS: practice-github-actions.svjbpn1.mongodb.net
